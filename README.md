@@ -1,2 +1,2 @@
-# NITG-CS101
-CS101 Related Materials for 2022-2023
+# NITG-CS100
+CS100 Related Materials for Nov2022-March2023
